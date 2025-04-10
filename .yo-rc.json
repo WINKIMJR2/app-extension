@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "app-extension",
+    "libraryId": "92ac84c3-6b69-4f78-aafd-49e601d91f2c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "app-extension",
+    "solutionShortDescription": "app-extension description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,8 @@
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction 
+      Title="SimpleTestWebPart" 
+      ScriptSrc="~sitecollection/_catalogs/solutions/SimpleTestWebPart" 
+      ScriptFile="simpleTestWebPart.js" 
+      ScriptFunc="init" 
+      ScriptArgs=""/>
+</Elements>
