@@ -4,31 +4,37 @@ logs
 npm-debug.log*
 
 # Dependency directories
-node_modules
+node_modules/
 
 # Build generated files
-dist
-lib
-release
-solution
-temp
+dist/
+lib/
+release/
+solution/
+temp/
 *.sppkg
-.heft
+.heft/
 
 # Coverage directory used by tools like istanbul
-coverage
+coverage/
 
-# OSX
+# Mac system files
 .DS_Store
 
 # Visual Studio files
 .ntvs_analysis.dat
-.vs
-bin
-obj
+.vs/
+bin/
+obj/
+
+# VS Code config
+.vscode/
 
 # Resx Generated Code
 *.resx.ts
 
 # Styles Generated Code
 *.scss.ts
+
+# Lock files (optional, depending on your team's setup)
+package-lock.json
